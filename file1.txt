@@ -1,1 +1,2 @@
 I am a new line
+I am making some changes to this file to create a new feature
